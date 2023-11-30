@@ -1,0 +1,25 @@
+@import 'content';
+
+body {
+    background: linear-gradient(90deg, #24243e, #302b63, #0f0c29);
+    margin:0;
+    font-family: monospace;
+}
+
+a {
+    text-decoration: none;
+    cursor:pointer;
+}
+
+h1, h2, h3, h4, h5, h6,  div, span, p {
+    margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+button {
+    border:none;
+    background:none;
+    cursor:pointer;
+}
+    
